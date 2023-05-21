@@ -17,4 +17,6 @@
 </p>
 
 <h2 align="center">Tailwind CSS</h2>
+
+* https://07rinat07.github.io/TAILWINDCSS-TESLA/
   
