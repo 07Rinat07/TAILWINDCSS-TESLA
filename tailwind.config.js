@@ -12,9 +12,9 @@ module.exports = {
         border: '0 2px 0 0 #181b21'
       },
       backgroundImage: theme => ({
-        'model-s': "url('../../img/model-s.jpeg')",
-        'mobile-model-s': "url('../../img/mobile-model-s.jpeg')",
-        'model-y': "url('../../img/model-y.jpeg')",
+        'model-s': url('/img/model-s.jpeg'),
+        'mobile-model-s': "url('/img/mobile-model-s.jpeg')",
+        'model-y': "url('/img/model-y.jpeg')",
         'mobile-model-y': "url('/img/mobile-model-y.jpeg')",
         'model-3': "url('/img/model-3.jpeg')",
         'mobile-model-3': "url('/img/mobile-model-3.jpeg')",
